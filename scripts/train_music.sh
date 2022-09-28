@@ -1,0 +1,1 @@
+python train.py -c config/MUSIC/accordion.conf -e exps/music-accordion/

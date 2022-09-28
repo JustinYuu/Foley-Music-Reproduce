@@ -1,0 +1,1 @@
+python train.py -c config/URMP/violin.conf -e exps/urmp-vn/
