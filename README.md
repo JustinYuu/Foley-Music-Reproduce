@@ -42,11 +42,9 @@ For the AtinPiano dataset:
     bash scripts/train_atin.sh  
     bash scripts/infer_atin.sh  
 
-Be aware to change the instrument type in the .sh files when training/testing on the URMP and MUSIC datasets.  
+Be aware to change the instrument type in the **.sh** files when training/testing on the **URMP** and **MUSIC** datasets.  
 
 Notes from the authors:  
-
-Notes:
 
 - Instrument name ($INSTRUMENT_NAME) can be found here
 
