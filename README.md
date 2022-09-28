@@ -19,7 +19,7 @@ Since the authors of this paper no longer maintain the official repository and s
 - pyFluidSynth  
 - pretty_midi  
 
-The .wav generation also requries the installation of (FluidSynth)[https://www.fluidsynth.org/], please refer to this [link](https://github.com/FluidSynth/fluidsynth) for installation instruction.  
+The .wav generation also requries the installation of [FluidSynth](https://www.fluidsynth.org/), please refer to this [link](https://github.com/FluidSynth/fluidsynth) for installation instruction.  
 
 ## Data Preparation  
 
