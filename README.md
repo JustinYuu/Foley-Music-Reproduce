@@ -44,7 +44,7 @@ For the AtinPiano dataset:
 
 Be aware to change the instrument type in the **.sh** files when training/testing on the **URMP** and **MUSIC** datasets.  
 
-Notes from the authors:  
+**Notes from the authors:**  
 
 - Instrument name ($INSTRUMENT_NAME) can be found here
 
