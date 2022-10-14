@@ -46,7 +46,7 @@ Be aware to change the instrument type in the **.sh** files when training/testin
 
 **Notes from the authors:**  
 
-- Instrument name ($INSTRUMENT_NAME) can be found here
+- Instrument name ($INSTRUMENT_NAME) can be found [here](https://github.com/craffel/pretty-midi/blob/master/pretty_midi/constants.py#L7)
 
 - If you do not have the video file or you want to generate MIDI and audio only, you can add -oa flag to skip the generation of video.  
 
