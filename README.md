@@ -1,7 +1,9 @@
 # Foley-Music-Reproduce
 A PyTorch Re-Implementation of ECCV 2020 paper "Foley Music: Learning to Generate Music from Videos "  
 
-**Foley Music: Learning to Generate Music from Videos** Chuang Gan, Deng Huang, Peihao Chen, Joshua B. Tenenbaum, and Antonio Torralba
+**Foley Music: Learning to Generate Music from Videos** 
+
+Chuang Gan, Deng Huang, Peihao Chen, Joshua B. Tenenbaum, and Antonio Torralba
 
 [Paper link](https://arxiv.org/abs/2007.10984)  
 
